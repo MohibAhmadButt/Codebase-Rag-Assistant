@@ -1,0 +1,9 @@
+streamlit==1.32.2
+google-generativeai==0.4.1
+GitPython==3.1.42
+langchain==0.1.13
+langchain-community==0.0.29
+langchain-text-splitters==0.0.1
+langchain-huggingface==0.0.2
+faiss-cpu==1.8.0
+sentence-transformers==2.6.1
